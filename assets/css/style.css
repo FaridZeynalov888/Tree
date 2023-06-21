@@ -1,0 +1,9 @@
+.content{
+    /* background-image: url(../images/img_tree-png-1.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment:fixed; */
+    
+    background: url(../images/img_tree-png-1.png) no-repeat right top fixed;
+
+}
